@@ -14,3 +14,7 @@ button{
 .bg-pink{
 	background-color:pink;
 }
+
+.title{
+    font-weight: 700;
+}
